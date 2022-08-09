@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Connext",
+    "date": "12/2020",
+    "desc": "A review of the Vector state channel contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "path": "connext-12-2020",
+    "sourceCodeUrl": "https://github.com/connext/vector/releases/tag/vector-0.0.17",
+    "commit": "f3d72fe0a4f2877bd0453ff8d4161129c459ad83 vector-0.0.17"
+  },
+  {
+    "name": "OpenGSN",
+    "date": "01/2021",
+    "desc": "A review of the Gas Stations Network Protocol v2 contracts implementation by OpenGSN.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "path": "opengsn-01-2021",
+    "sourceCodeUrl": "https://github.com/opengsn/gsn/tree/release",
+    "commit": "331166d9fcb5e01fd4dcf52e827123b7d3751972 release"
+  },
+  {
+    "name": "EPNS",
+    "date": "03/2021",
+    "desc": "A review of the PUSH Tokens, Staking and Time Vesting smart contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "path": "epns-protocol-03-2021",
+    "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/epns-smart-contracts-genesis/tree/cbbc2183308f9f7c722aecb6a1c565ce16273be0",
+    "commit": "80b7acaf8ef660cb2851ded9bc93bf41250bbc6e"
+  },
+  {
+    "name": "Ribbon Finance",
+    "date": "04/2021",
+    "desc": "A review of the RibbonCoveredCall and parts of GammaAdapter and ProtocolAdapter smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "path": "ribbon-finance-04-2021",
+    "sourceCodeUrl": "https://github.com/ribbon-finance/audit/tree/269e56845e76849855abe20f2dea5c5c5da52750",
+    "commit": "269e56845e76849855abe20f2dea5c5c5da52750"
+  },
+  {
+    "name": "The Graph",
+    "date": "04/2021",
+    "desc": "A review of the GRTWithdrawHelper smart contract.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "path": "thegraph-04-2021",
+    "sourceCodeUrl": "https://github.com/graphprotocol/contracts/commit/7170fc04a210c9158712edd81b797702f82fcff6",
+    "commit": "7170fc04a210c9158712edd81b797702f82fcff6"
+  },
+  {
+    "name": "Element Finance",
+    "date": "10/2021",
+    "desc": "A review of the Council smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "element-finance-10-2021",
+    "sourceCodeUrl": "https://github.com/element-fi/council/tree/4003f1bf818eec73cba545d49ecf1f897aa0f203",
+    "commit": "4003f1bf818eec73cba545d49ecf1f897aa0f203"
+  },
+  {
+    "name": "EPNS Protocol",
+    "date": "10/2021",
+    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol smart contracts.",
+    "auditors": ["Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "epns-protocol-10-2021",
+    "sourceCodeUrl": "https://github.com/ethereum-push-notification-service",
+    "commit": "95edbbf783cb862202079206b255bd8476548d4f"
+  },
+  {
+    "name": "Ribbon Finance",
+    "date": "11/2021",
+    "desc": "A review of the Ribbon V2 smart contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "path": "ribbon-finance-11-2021",
+    "sourceCodeUrl": "https://github.com/ribbon-finance/ribbon-v2",
+    "commit": "8328177fc188a344ea22591e872077d100a9e8a3"
+  },
+  {
+    "name": "Exactly Finance",
+    "date": "05/2022",
+    "desc": "A review of the Fixed Lending Protocol smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "exactly-finance-05-2022",
+    "sourceCodeUrl": "https://github.com/exactly-protocol",
+    "commit": "cc68303704cf9a3aaad0bfc49968033acc42a63b"
+  }
+]
