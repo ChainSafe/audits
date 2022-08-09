@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Connext",
+    "date": "12/2020",
+    "desc": "Connext Labs Inc requested ChainSafe Systems to perform a review of the Vector state channel contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "commit": "f3d72fe0a4f2877bd0453ff8d4161129c459ad83"
+  },
+  {
+    "name": "OpenGSN",
+    "date": "01/2021",
+    "desc": "OpenGSN requested ChainSafe Systems to perform a review of the Gas Stations Network Protocol v2 contracts implementation by OpenGSN.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "commit": "9856bdd7b55a779452fa7f30eebe39ef36a7b411"
+  },
+  {
+    "name": "EPNS",
+    "date": "03/2021",
+    "desc": "EPNS requested ChainSafe Systems to perform a review of the PUSH Tokens, Staking and Time Vesting smart contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "commit": "80b7acaf8ef660cb2851ded9bc93bf41250bbc6e"
+  },
+  {
+    "name": "Ribbon Finance",
+    "date": "04/2021",
+    "desc": "Ribbon Finance requested ChainSafe Systems to perform a review of the RibbonCoveredCall and parts of GammaAdapter and ProtocolAdapter smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "commit": "d1102fbd7c59e14e371b71b27cf6accb92d997fb"
+  },
+  {
+    "name": "The Graph",
+    "date": "04/2021",
+    "desc": "The Graph requested ChainSafe Systems to perform a review of the GRTWithdrawHelper smart contract.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "commit": "41ceb7978f4660e5b569b1dd6a7338d2082129f6"
+  },
+  {
+    "name": "Element Finance",
+    "date": "10/2021",
+    "desc": "Element Finance requested ChainSafe Systems to perform a review of the Council smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "commit": "f3d72fe0a4f2877bd0453ff8d4161129c459ad83"
+  },
+  {
+    "name": "EPNS Protocol",
+    "date": "10/2021",
+    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol smart contracts.",
+    "auditors": ["Oleksii Matiiasevych", "Anderson Lee"],
+    "commit": "04dc260edf915aa1e81fa8e27d205bba9beb318d"
+  },
+  {
+    "name": "Ribbon Finance",
+    "date": "11/2021",
+    "desc": "Ribbon Finance requested ChainSafe Systems to perform a review of the Ribbon V2 smart contracts.",
+    "auditors": ["Oleksii Matiiasevych"],
+    "commit": "cf498d16fc4a51e38ada887467735a3272fc5aed"
+  },
+  {
+    "name": "Exactly Finance",
+    "date": "05/2022",
+    "desc": "Exactly Finance requested ChainSafe Systems to perform a review of the Fixed Lending Protocol smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "commit": "aff440306ca65335aaec666158da43697d6b6a61"
+  }
+
+]
