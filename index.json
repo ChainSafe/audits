@@ -13,7 +13,7 @@
     "date": "01/2021",
     "desc": "A review of the Gas Stations Network Protocol v2 contracts implementation by OpenGSN.",
     "auditors": ["Oleksii Matiiasevych"],
-    "path": "opengsn-01-2021",
+    "path": "opengsn-03-2021",
     "sourceCodeUrl": "https://github.com/opengsn/gsn/tree/release",
     "commit": "331166d9fcb5e01fd4dcf52e827123b7d3751972 release"
   },
