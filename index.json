@@ -88,5 +88,14 @@
     "path": "niftykit-v2-08-2022",
     "sourceCodeUrl": "https://github.com/niftykit-inc/niftykit-contracts",
     "commit": "d951351a75902336f7ab5d49f5f3e492a1dc312e"
+  },
+  {
+    "name": "Exactly Protocol Update",
+    "date": "10/2022",
+    "desc": "A review of the Exactly Protocol smart contracts update.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "exactly-protocol-10-2022",
+    "sourceCodeUrl": "https://github.com/exactly-protocol/protocol",
+    "commit": "66209d6c44a6180bb7fbdc0bc4f46f292d2315a4"
   }
 ]
