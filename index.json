@@ -59,7 +59,7 @@
     "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol smart contracts.",
     "auditors": ["Oleksii Matiiasevych", "Anderson Lee"],
     "path": "epns-protocol-10-2021",
-    "sourceCodeUrl": "https://github.com/ethereum-push-notification-service",
+    "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-protocol-staging",
     "commit": "95edbbf783cb862202079206b255bd8476548d4f"
   },
   {
@@ -80,6 +80,24 @@
     "sourceCodeUrl": "https://github.com/exactly-protocol",
     "commit": "cc68303704cf9a3aaad0bfc49968033acc42a63b"
   },
+
+    "name": "NIFTYKIT",
+    "date": "08/2022",
+    "desc": "A review of the NiftyKit V2 smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "niftykit-v2-08-2022",
+    "sourceCodeUrl": "https://github.com/niftykit-inc/niftykit-contracts",
+    "commit": "d951351a75902336f7ab5d49f5f3e492a1dc312e"
+  },
+  {
+    "name": "Exactly Protocol Update",
+    "date": "10/2022",
+    "desc": "A review of the Exactly Protocol smart contracts update.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "exactly-protocol-10-2022",
+    "sourceCodeUrl": "https://github.com/exactly-protocol/protocol",
+    "commit": "66209d6c44a6180bb7fbdc0bc4f46f292d2315a4"
+  },
   {
     "name": "Beamer",
     "date": "10/2022",
@@ -90,6 +108,15 @@
     "commit": "6d53b8f6c69e2c51bea23c0974c525123eba3019"
   },
   {
+    "name": "EPNS",
+    "date": "11/2022",
+    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol 1.5 smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "epns-protocol-11-2022",
+    "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-protocol-staging",
+    "commit": "e1c682fe2a5fc2658bd3f73c6984a18d71b083b1"
+  }
+  {
     "name": "1inch",
     "date": "11/2022",
     "desc": "A review of the Farming smart contracts update",
@@ -97,5 +124,5 @@
     "path": "1inch-11-2022",
     "sourceCodeUrl": "https://github.com/1inch/farming",
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
-  }
+  },
 ]
