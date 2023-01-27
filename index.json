@@ -119,7 +119,7 @@
     "name": "1inch",
     "date": "11/2022",
     "desc": "A review of the Farming smart contracts update",
-    "auditors": ["Tanya Bushenyova", "Anderson Lee","Oleksii Matiiasevych"],
+    "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
     "path": "1inch-11-2022",
     "sourceCodeUrl": "https://github.com/1inch/farming",
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
