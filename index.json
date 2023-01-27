@@ -80,7 +80,6 @@
     "sourceCodeUrl": "https://github.com/exactly-protocol",
     "commit": "cc68303704cf9a3aaad0bfc49968033acc42a63b"
   },
-
     "name": "NIFTYKIT",
     "date": "08/2022",
     "desc": "A review of the NiftyKit V2 smart contracts.",
@@ -115,7 +114,7 @@
     "path": "epns-protocol-11-2022",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-protocol-staging",
     "commit": "e1c682fe2a5fc2658bd3f73c6984a18d71b083b1"
-  }
+  },
   {
     "name": "1inch",
     "date": "11/2022",
@@ -124,5 +123,5 @@
     "path": "1inch-11-2022",
     "sourceCodeUrl": "https://github.com/1inch/farming",
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
-  },
+  }
 ]
