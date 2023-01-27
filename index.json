@@ -80,6 +80,7 @@
     "sourceCodeUrl": "https://github.com/exactly-protocol",
     "commit": "cc68303704cf9a3aaad0bfc49968033acc42a63b"
   },
+  {
     "name": "NIFTYKIT",
     "date": "08/2022",
     "desc": "A review of the NiftyKit V2 smart contracts.",
