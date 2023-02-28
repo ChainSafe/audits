@@ -131,7 +131,7 @@
     "desc": "Areview of the vaults and auction contracts used with Hashnote's options protocol ecosystem.",
     "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
     "path": "hashnote-vaults-02-2023",
-    "sourceCodeUrl": "https://www.hashnote.com/",
+    "sourceCodeUrl": "",
     "commit": "48ce04a3a43ec1dfbb335b6d4dd06aba3160c02f"
   },
   {
