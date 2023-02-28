@@ -124,5 +124,23 @@
     "path": "1inch-11-2022",
     "sourceCodeUrl": "https://github.com/1inch/farming",
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
+  },
+  {
+    "name": "Hashnote Vaults",
+    "date": "02/2023",
+    "desc": "Areview of the vaults and auction contracts used with Hashnote's options protocol ecosystem.",
+    "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "path": "hashnote-vaults-02-2023",
+    "sourceCodeUrl": "https://www.hashnote.com/",
+    "commit": "48ce04a3a43ec1dfbb335b6d4dd06aba3160c02f"
+  },
+  {
+    "name": "Grappa Finance",
+    "date": "02/2023",
+    "desc": "A review of the Grappa contracts implementing their options protocol ecosystem core.",
+    "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
+    "path": "grappa-finance-02-2023",
+    "sourceCodeUrl": "https://github.com/grappafinance/core",
+    "commit": "88e9cd5c6d51c736fb1df686a04d334b1594fdc76"
   }
 ]
