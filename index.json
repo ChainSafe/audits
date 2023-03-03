@@ -128,7 +128,7 @@
   {
     "name": "Hashnote Vaults",
     "date": "02/2023",
-    "desc": "Areview of the vaults and auction contracts used with Hashnote's options protocol ecosystem.",
+    "desc": "A review of the vaults and auction contracts used with Hashnote's options protocol ecosystem.",
     "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
     "path": "hashnote-vaults-02-2023",
     "sourceCodeUrl": "",
