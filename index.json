@@ -90,7 +90,7 @@
     "commit": "d951351a75902336f7ab5d49f5f3e492a1dc312e"
   },
   {
-    "name": "Exactly Protocol Update",
+    "name": "Exactly Protocol",
     "date": "10/2022",
     "desc": "A review of the Exactly Protocol smart contracts update.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
