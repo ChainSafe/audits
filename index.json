@@ -124,5 +124,14 @@
     "path": "1inch-11-2022",
     "sourceCodeUrl": "https://github.com/1inch/farming",
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
+  },
+  {
+    "name": "Zenon Network",
+    "date": "05/2023",
+    "desc": "A review of the Bridge smart contracts",
+    "auditors": ["Anderson Lee", "Oleksii Matiiasevych"],
+    "path": "zenon-05-2023",
+    "sourceCodeUrl": "https://github.com/HyperCore-Team/evm-bridge-contracts",
+    "commit": "5204c0df4e0a2a1bcaa69e5fa22c9131c09e76e9"
   }
 ]
