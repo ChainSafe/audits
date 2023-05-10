@@ -28,5 +28,5 @@ The review documentation is for internal management discussion purposes only and
 | [Exactly Protocol](https://exact.ly/)| 31/10/2022     | [66209d6](https://github.com/exactly-protocol/protocol/commit/66209d6c44a6180bb7fbdc0bc4f46f292d2315a4)     | [Report](/Exactly%20Protocol/exactly-protocol-10-2022.pdf)  |
 | [Beamer](https://beamerbridge.com/)| 31/10/2022     | [53610b9](https://github.com/beamer-bridge/beamer/tree/53610b9b890e75e724d1996033e05ea5e0823984)     | [Report](/Beamer/beamer-01-2023.pdf)  |
 | [EPNS](https://epns.io/)| 29/11/2022     | [e1c682f](https://github.com/ethereum-push-notification-service/push-protocol-staging/tree/e1c682fe2a5fc2658bd3f73c6984a18d71b083b1)     | [Report](/EPNS/epns-protocol-11-2022.pdf)  |
-| [1inch](https://1inch.io/)| /11/2022     | [6b140d7](https://github.com/1inch/farming/tree/6b140d74cc751360e6f72d4ea68d8f3caea09bce)     | [Report](/1inch/1inch-11-2022.pdf)  |
-| [Zenon Network](https://)| 05/05/2023     | [5204c0d](https://github.com/HyperCore-Team/evm-bridge-contracts/tree/5204c0df4e0a2a1bcaa69e5fa22c9131c09e76e9)     | [Report](/Zenon%20Network/zenon-05-2023.pdf)  |
+| [1inch](https://1inch.io/)| 29/11/2022     | [6b140d7](https://github.com/1inch/farming/tree/6b140d74cc751360e6f72d4ea68d8f3caea09bce)     | [Report](/1inch/1inch-11-2022.pdf)  |
+| [Zenon Network](https://zenon.network/)| 05/05/2023     | [5204c0d](https://github.com/HyperCore-Team/evm-bridge-contracts/tree/5204c0df4e0a2a1bcaa69e5fa22c9131c09e76e9)     | [Report](/Zenon%20Network/zenon-05-2023.pdf)  |
