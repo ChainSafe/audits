@@ -30,3 +30,4 @@ The review documentation is for internal management discussion purposes only and
 | [EPNS](https://epns.io/)| 29/11/2022     | [e1c682f](https://github.com/ethereum-push-notification-service/push-protocol-staging/tree/e1c682fe2a5fc2658bd3f73c6984a18d71b083b1)     | [Report](/EPNS/epns-protocol-11-2022.pdf)  |
 | [1inch](https://1inch.io/)| 29/11/2022     | [6b140d7](https://github.com/1inch/farming/tree/6b140d74cc751360e6f72d4ea68d8f3caea09bce)     | [Report](/1inch/1inch-11-2022.pdf)  |
 | [Zenon Network](https://zenon.network/)| 05/05/2023     | [5204c0d](https://github.com/HyperCore-Team/evm-bridge-contracts/tree/5204c0df4e0a2a1bcaa69e5fa22c9131c09e76e9)     | [Report](/Zenon%20Network/zenon-05-2023.pdf)  |
+| [EPNS](https://epns.io/)| 30/05/2023     | [a861334](https://github.com/ethereum-push-notification-service/push-smart-contracts/tree/a8613344feefc686e6881d96b69a04b31206ec1f)     | [Report](/EPNS/epns-protocol-05-2023.pdf)  |
