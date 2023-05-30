@@ -141,6 +141,6 @@
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
     "path": "epns-protocol-05-2023",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-smart-contracts",
-    "commit": "a8613344feefc686e6881d96b69a04b31206ec1f"
+    "commit": "993130c48211a83fd2b19fb082f2e25f91fa04cc"
   }
 ]
