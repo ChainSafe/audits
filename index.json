@@ -135,6 +135,15 @@
     "commit": "5204c0df4e0a2a1bcaa69e5fa22c9131c09e76e9"
   },
   {
+    "name": "Gnosis Chain",
+    "date": "05/2023",
+    "desc": "A review of the SBC Withdrawals contracts",
+    "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
+    "path": "gnosis-05-2023",
+    "sourceCodeUrl": "https://github.com/gnosischain/deposit-contract",
+    "commit": "13e155500b626612844e3d0fccc11b02b11ea785"
+  },
+  {
     "name": "EPNS",
     "date": "05/2023",
     "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol 2.0 smart contracts.",
