@@ -56,7 +56,7 @@
   {
     "name": "EPNS",
     "date": "10/2021",
-    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol smart contracts.",
+    "desc": "A review of the EPNS Protocol smart contracts.",
     "auditors": ["Oleksii Matiiasevych", "Anderson Lee"],
     "path": "epns-protocol-10-2021",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-protocol-staging",
@@ -110,7 +110,7 @@
   {
     "name": "EPNS",
     "date": "11/2022",
-    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol 1.5 smart contracts.",
+    "desc": "A review of the EPNS Protocol 1.5 smart contracts.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
     "path": "epns-protocol-11-2022",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-protocol-staging",
@@ -146,7 +146,7 @@
   {
     "name": "EPNS",
     "date": "05/2023",
-    "desc": "EPNS requested ChainSafe Systems to perform a review of the EPNS Protocol 2.0 smart contracts.",
+    "desc": "A review of the Push Protocol 2.0 smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
     "path": "epns-protocol-05-2023",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-smart-contracts",
