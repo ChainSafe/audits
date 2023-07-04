@@ -151,5 +151,14 @@
     "path": "epns-protocol-05-2023",
     "sourceCodeUrl": "https://github.com/ethereum-push-notification-service/push-smart-contracts",
     "commit": "993130c48211a83fd2b19fb082f2e25f91fa04cc"
+  },
+  {
+    "name": "Hyperdrive",
+    "date": "06/2023",
+    "desc": "A review of the Hyperdrive smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
+    "path": "hyperdrive-06-2023",
+    "sourceCodeUrl": "https://github.com/delvtech/hyperdrive",
+    "commit": "1bcf5fe45b9d3dd02741302dd639104338e79c21"
   }
 ]
