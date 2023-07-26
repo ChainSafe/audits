@@ -160,5 +160,14 @@
     "path": "hyperdrive-06-2023",
     "sourceCodeUrl": "https://github.com/delvtech/hyperdrive",
     "commit": "1bcf5fe45b9d3dd02741302dd639104338e79c21"
+  },
+  {
+    "name": "Gnosis Chain",
+    "date": "07/2023",
+    "desc": "A review of the SBC Withdrawals contracts redesign",
+    "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
+    "path": "gnosis-07-2023",
+    "sourceCodeUrl": "https://github.com/gnosischain/deposit-contract",
+    "commit": "24f9fcfdff4ef04fd47d459aaa88741c66c5dba4"
   }
 ]
