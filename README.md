@@ -33,3 +33,4 @@ The review documentation is for internal management discussion purposes only and
 | [Gnosis Chain](https://www.gnosis.io/)| 25/05/2023     | [13e1555](https://github.com/gnosischain/deposit-contract/tree/13e155500b626612844e3d0fccc11b02b11ea785)     | [Report](/Gnosis%20Chain/gnosis-05-2023.pdf)  |
 | [EPNS](https://epns.io/)| 30/05/2023     | [993130c](https://github.com/ethereum-push-notification-service/push-smart-contracts/tree/993130c48211a83fd2b19fb082f2e25f91fa04cc)     | [Report](/EPNS/epns-protocol-05-2023.pdf)  |
 | [Hyperdrive](https://hyperdrive.delv.tech/)| 30/06/2023     | [1bcf5fe](https://github.com/delvtech/hyperdrive/commit/1bcf5fe45b9d3dd02741302dd639104338e79c21)     | [Report](/Hyperdrive/hyperdrive-06-2023.pdf)  |
+| [Gnosis Chain](https://www.gnosis.io/)| 24/07/2023     | [24f9fcf](https://github.com/gnosischain/deposit-contract/tree/24f9fcfdff4ef04fd47d459aaa88741c66c5dba4)     | [Report](/Gnosis%20Chain/gnosis-07-2023.pdf)  |
