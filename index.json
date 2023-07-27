@@ -175,7 +175,7 @@
     "date": "07/2023",
     "desc": "A review of the Ribbon Autocall smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
-    "path": "ribbon-07-2023_02",
+    "path": "ribbon-07-2023",
     "sourceCodeUrl": "https://github.com/ribbon-finance/ribbon-v2",
     "commit": "01c716a6bf452bdf8789f8cf5b3ef3e36db2da8e"
   }
