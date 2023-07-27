@@ -172,7 +172,7 @@
   },
   {
     "name": "Ribbon Finance",
-    "date": "11/2021",
+    "date": "07/2023",
     "desc": "A review of the Ribbon Autocall smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
     "path": "ribbon-07-2023_02",
