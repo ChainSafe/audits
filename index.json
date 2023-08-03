@@ -163,9 +163,9 @@
   },
   {
     "name": "Franklin",
-    "date": "07/2023",
+    "date": "06/2023",
     "desc": "A review of the Franklin payroll ecosystem contracts.",
-    "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
+    "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
     "path": "fraklin-06-2023",
     "sourceCodeUrl": "https://github.com/franklin-systems/franklin",
     "commit": "556d667e81f902de04513eb12fc0108334edcb22"
