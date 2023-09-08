@@ -36,3 +36,4 @@ The review documentation is for internal management discussion purposes only and
 | [Franklin](https://www.hellofranklin.co/)| 30/06/2023     | [556d667](https://github.com/franklin-systems/franklin/commit/556d667e81f902de04513eb12fc0108334edcb22)     | [Report](/Franklin/franklin-06-2023.pdf)  |
 | [Gnosis Chain](https://www.gnosis.io/)| 24/07/2023     | [24f9fcf](https://github.com/gnosischain/deposit-contract/tree/24f9fcfdff4ef04fd47d459aaa88741c66c5dba4)     | [Report](/Gnosis%20Chain/gnosis-07-2023.pdf)  |
 | [Ribbon Finance](https://www.ribbon.finance/)| 27/07/2023     | [01c716a](https://github.com/ribbon-finance/ribbon-v2/tree/01c716a6bf452bdf8789f8cf5b3ef3e36db2da8e)     | [Report](/Ribbon%20Finance/ribbon-07-2023.pdf)  |
+| [Gnosis Chain](https://www.gnosis.io/)| 29/08/2023     | [24f9fcf](https://github.com/gnosischain/tokenbridge-contracts/tree/b778a4a3823c2ae8111270af280a2e865762eb71)     | [Report](/Gnosis%20Chain/gnosis-08-2023.pdf)  |
