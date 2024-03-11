@@ -45,12 +45,12 @@
     "commit": "7170fc04a210c9158712edd81b797702f82fcff6"
   },
   {
-    "name": "Element Finance",
+    "name": "Delv Finance",
     "date": "10/2021",
     "desc": "A review of the Council smart contracts.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
-    "path": "element-finance-10-2021",
-    "sourceCodeUrl": "https://github.com/element-fi/council/tree/4003f1bf818eec73cba545d49ecf1f897aa0f203",
+    "path": "delv-10-2021",
+    "sourceCodeUrl": "https://github.com/delvtech/council/tree/",
     "commit": "4003f1bf818eec73cba545d49ecf1f897aa0f203"
   },
   {
