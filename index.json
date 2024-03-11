@@ -142,6 +142,8 @@
     "path": "grappa-finance-02-2023",
     "sourceCodeUrl": "https://github.com/grappafinance/core",
     "commit": "88e9cd5c6d51c736fb1df686a04d334b1594fdc76"
+  },  
+  {
     "name": "Zenon Network",
     "date": "05/2023",
     "desc": "A review of the Bridge smart contracts.",
