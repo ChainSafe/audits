@@ -45,7 +45,7 @@
     "commit": "7170fc04a210c9158712edd81b797702f82fcff6"
   },
   {
-    "name": "Delv",
+    "name": "DELV",
     "date": "10/2021",
     "desc": "A review of the Council smart contracts.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
@@ -171,11 +171,11 @@
     "commit": "993130c48211a83fd2b19fb082f2e25f91fa04cc"
   },
   {
-    "name": "Hyperdrive",
+    "name": "DELV",
     "date": "06/2023",
     "desc": "A review of the Hyperdrive smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
-    "path": "hyperdrive-06-2023",
+    "path": "delv-06-2023",
     "sourceCodeUrl": "https://github.com/delvtech/hyperdrive",
     "commit": "1bcf5fe45b9d3dd02741302dd639104338e79c21"
   },
