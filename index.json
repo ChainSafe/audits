@@ -126,7 +126,7 @@
     "commit": "8403ce63df903db66c5c8fd7958470c6827df7e6"
   },
   {
-    "name": "Hashnote Vaults",
+    "name": "Hashnote",
     "date": "02/2023",
     "desc": "A review of the vaults and auction contracts used with Hashnote's options protocol ecosystem.",
     "auditors": ["Anderson Lee", "Tanya Bushenyova", "Oleksii Matiiasevych"],
