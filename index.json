@@ -171,11 +171,11 @@
     "commit": "993130c48211a83fd2b19fb082f2e25f91fa04cc"
   },
   {
-    "name": "Hyperdrive",
+    "name": "Delv",
     "date": "06/2023",
     "desc": "A review of the Hyperdrive smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee", "Oleksii Matiiasevych"],
-    "path": "hyperdrive-06-2023",
+    "path": "delv-06-2023",
     "sourceCodeUrl": "https://github.com/delvtech/hyperdrive",
     "commit": "1bcf5fe45b9d3dd02741302dd639104338e79c21"
   },
