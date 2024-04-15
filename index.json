@@ -214,5 +214,14 @@
     "path": "gnosis-08-2023",
     "sourceCodeUrl": "https://github.com/gnosischain/tokenbridge-contracts",
     "commit": "b778a4a3823c2ae8111270af280a2e865762eb71"
+  },
+  {
+    "name": "Exactly Protocol",
+    "date": "03/2024",
+    "desc": "A review of the Exactly Protocol smart contracts update.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "exactly-protocol-03-2024",
+    "sourceCodeUrl": "https://github.com/exactly-protocol/protocol",
+    "commit": "08619c3f02e9710475eba31f6449d0f1abdae533"
   }
 ]
