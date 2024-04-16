@@ -77,7 +77,7 @@
     "desc": "A review of the Fixed Lending Protocol smart contracts.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
     "path": "exactly-finance-05-2022",
-    "sourceCodeUrl": "https://github.com/exactly-protocol",
+    "sourceCodeUrl": "https://github.com/exactly/protocol",
     "commit": "cc68303704cf9a3aaad0bfc49968033acc42a63b"
   },
   {
@@ -95,7 +95,7 @@
     "desc": "A review of the Exactly Protocol smart contracts update.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
     "path": "exactly-protocol-10-2022",
-    "sourceCodeUrl": "https://github.com/exactly-protocol/protocol",
+    "sourceCodeUrl": "https://github.com/exactly/protocol",
     "commit": "66209d6c44a6180bb7fbdc0bc4f46f292d2315a4"
   },
   {
@@ -221,7 +221,7 @@
     "desc": "A review of the Exactly Protocol smart contracts update.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
     "path": "exactly-protocol-03-2024",
-    "sourceCodeUrl": "https://github.com/exactly-protocol/protocol",
+    "sourceCodeUrl": "https://github.com/exactly/protocol",
     "commit": "08619c3f02e9710475eba31f6449d0f1abdae533"
   }
 ]
