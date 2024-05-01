@@ -38,3 +38,4 @@ The review documentation is for internal management discussion purposes only and
 | [Ribbon Finance](https://www.ribbon.finance/)| 27/07/2023     | [01c716a](https://github.com/ribbon-finance/ribbon-v2/tree/01c716a6bf452bdf8789f8cf5b3ef3e36db2da8e)     | [Report](/Ribbon%20Finance/ribbon-07-2023.pdf)  |
 | [Gnosis Chain](https://www.gnosis.io/)| 29/08/2023     | [24f9fcf](https://github.com/gnosischain/tokenbridge-contracts/tree/b778a4a3823c2ae8111270af280a2e865762eb71)     | [Report](/Gnosis%20Chain/gnosis-08-2023.pdf)  |
 | [Exactly Protocol](https://exact.ly/)| 26/03/2024     | [08619c3](https://github.com/exactly/protocol/commit/08619c3f02e9710475eba31f6449d0f1abdae533)     | [Report](/Exactly%20Protocol/exactly-protocol-03-2024.pdf)  |
+| [Rocket Pool](https://rocketpool.net/)| 30/04/2024     | [84ac198](https://github.com/rocket-pool/rocketpool/commit/84ac19872dda7ca9c39c4f7349159d0e984130b9)     | [Report](/Rocket%20Pool/rocket-pool-04-2024.pdf)  |
