@@ -223,5 +223,14 @@
     "path": "exactly-protocol-03-2024",
     "sourceCodeUrl": "https://github.com/exactly/protocol",
     "commit": "08619c3f02e9710475eba31f6449d0f1abdae533"
+  },
+  {
+    "name": "Rocket Pool",
+    "date": "04/2024",
+    "desc": "A review of the Rocket Pool DAO smart contracts update.",
+    "auditors": ["Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "rocket-pool-04-2024",
+    "sourceCodeUrl": "https://github.com/rocket-pool/rocketpool",
+    "commit": "84ac19872dda7ca9c39c4f7349159d0e984130b9"
   }
 ]
