@@ -254,7 +254,7 @@
   {
     "name": "Propy",
     "date": "05/2024",
-    "desc": "A review of the Propy NFT staking smart contracts update.",
+    "desc": "A review of the Propy NFT staking V2 smart contracts.",
     "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
     "path": "propy-nft-staking-v2-05-2024",
     "sourceCodeUrl": "https://github.com/Propy/Propy.PRONFTStaking",
@@ -263,7 +263,7 @@
   {
     "name": "Propy",
     "date": "05/2024",
-    "desc": "A review of the Propy Auction smart contracts update.",
+    "desc": "A review of the Propy Auction V2 smart contracts.",
     "auditors": ["Tanya Bushenyova", "Anderson Lee"],
     "path": "propy-auction-v2-05-2024",
     "sourceCodeUrl": "https://etherscan.io/address/0xbEcA655Fa9B1Cf7Fe4Ffb6Eee34cAF1C140A93b8#code",
