@@ -216,6 +216,24 @@
     "commit": "b778a4a3823c2ae8111270af280a2e865762eb71"
   },
   {
+    "name": "Propy",
+    "date": "02/2024",
+    "desc": "A review of the Propy NFT staking smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "propy-nft-staking-02-2024",
+    "sourceCodeUrl": "https://github.com/Propy/Propy.PRONFTStaking",
+    "commit": "251f78680b92d8bd13977df5db7338de3963f88e"
+  },
+  {
+    "name": "Propy",
+    "date": "02/2024",
+    "desc": "A review of the Propy Payment smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "propy-payment-02-2024",
+    "sourceCodeUrl": "https://github.com/Propy/Propy.PaymentPRO",
+    "commit": "46752febdd0b893ac1ce28fb58918524eb154d64"
+  },
+  {
     "name": "Exactly Protocol",
     "date": "03/2024",
     "desc": "A review of the Exactly Protocol smart contracts update.",
@@ -232,5 +250,23 @@
     "path": "rocket-pool-04-2024",
     "sourceCodeUrl": "https://github.com/rocket-pool/rocketpool",
     "commit": "84ac19872dda7ca9c39c4f7349159d0e984130b9"
+  },
+  {
+    "name": "Propy",
+    "date": "05/2024",
+    "desc": "A review of the Propy NFT staking V2 smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Oleksii Matiiasevych", "Anderson Lee"],
+    "path": "propy-nft-staking-v2-05-2024",
+    "sourceCodeUrl": "https://github.com/Propy/Propy.PRONFTStaking",
+    "commit": "7e5cac32f9451d5ac67d802562262a5bfbf249c9"
+  },
+  {
+    "name": "Propy",
+    "date": "05/2024",
+    "desc": "A review of the Propy Auction V2 smart contracts.",
+    "auditors": ["Tanya Bushenyova", "Anderson Lee"],
+    "path": "propy-auction-v2-05-2024",
+    "sourceCodeUrl": "https://etherscan.io/address/0xbEcA655Fa9B1Cf7Fe4Ffb6Eee34cAF1C140A93b8#code",
+    "commit": "-"
   }
 ]
