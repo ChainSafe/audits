@@ -43,3 +43,4 @@ The review documentation is for internal management discussion purposes only and
 | [Rocket Pool](https://rocketpool.net/)| 30/04/2024     | [84ac198](https://github.com/rocket-pool/rocketpool/commit/84ac19872dda7ca9c39c4f7349159d0e984130b9)     | [Report](/Rocket%20Pool/rocket-pool-04-2024.pdf)  |
 | [Propy](https://propy.com/)| 07/05/2024     | [7e5cac3](https://github.com/Propy/Propy.PRONFTStaking/commit/7e5cac32f9451d5ac67d802562262a5bfbf249c9)     | [Report](/Propy/propy-nft-staking-v2-05-2024.pdf)  |
 | [Propy](https://propy.com/)| 31/05/2024     | [-------](https://etherscan.io/address/0xbEcA655Fa9B1Cf7Fe4Ffb6Eee34cAF1C140A93b8#code)     | [Report](/Propy/propy-auction-v2-05-2024.pdf)  |
+| [B3](https://b3.fun/)| 14/08/2024     | [4043744](https://github.com/b3-fun/b3st-points/commit/404374416182ea41358abc3b4c2946ccc4418791)     | [Report](/B3/b3-points-08-2024.pdf)  |
